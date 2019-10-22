@@ -1,0 +1,31 @@
+{
+  "name": "csgo-trading-bot",
+  "version": "1.0.0",
+  "description": "create a basic csgo trading bot",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "nuxt": "^2.10.2",
+    "steam-totp": "^2.1.1",
+    "steam-user": "^4.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VoiculescuGeorge/csgo-jackpot.git"
+  },
+  "keywords": [
+    "csgo",
+    "bot"
+  ],
+  "author": "Geroge Alexandru Voiculescu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/VoiculescuGeorge/csgo-jackpot/issues"
+  },
+  "homepage": "https://github.com/VoiculescuGeorge/csgo-jackpot#readme"
+}
